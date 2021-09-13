@@ -16,6 +16,7 @@
     {"id":{"name":"SpriteEnemyD","path":"sprites/SpriteEnemyD/SpriteEnemyD.yy",},"order":9,},
     {"id":{"name":"SpriteEnemy","path":"sprites/SpriteEnemy/SpriteEnemy.yy",},"order":8,},
     {"id":{"name":"SpriteEnemyA","path":"sprites/SpriteEnemyA/SpriteEnemyA.yy",},"order":7,},
+    {"id":{"name":"ObjCamera","path":"objects/ObjCamera/ObjCamera.yy",},"order":6,},
     {"id":{"name":"ObjWall","path":"objects/ObjWall/ObjWall.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
