@@ -21,3 +21,6 @@ if (done == 0){
 	}
 	y = y + vsp;
 }
+if (image_index == 1){
+	instance_destroy();
+}
