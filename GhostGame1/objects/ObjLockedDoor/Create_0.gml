@@ -1,0 +1,1 @@
+type = ITEMTYPES.locked_door;
