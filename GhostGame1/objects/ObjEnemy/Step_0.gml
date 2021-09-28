@@ -30,4 +30,5 @@ if (!place_meeting(x,y+1,ObjWall)){
 	}
 }
 
+
 if (hsp != 0) image_xscale = sign(hsp);

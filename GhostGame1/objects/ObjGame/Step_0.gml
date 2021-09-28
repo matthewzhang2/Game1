@@ -1,8 +1,6 @@
-if(keyboard_check_pressed(vk_enter)){
+if(keyboard_check_pressed(vk_space)){
 	switch(room){
-		case Room2:
+		case Title:
 			room_goto(Room1);
-			room_instance_clear(Room2)
-			break;
 	}
 }

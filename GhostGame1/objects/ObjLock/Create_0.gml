@@ -1,0 +1,1 @@
+type = ITEMTYPES.lock;
